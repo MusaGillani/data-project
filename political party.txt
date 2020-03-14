@@ -1,0 +1,7 @@
+i)approve reject candidate
+
+  requests be stored in a file and dequeued after acceptance or rejection
+  
+ii)check results only displaying either it won or lost
+ 
+ 
