@@ -1,0 +1,19 @@
+menu:
+	select logins 
+	1)Election commission
+		register constituency
+		list all      // 
+		update/delete // 
+		register political party
+		  //      candiidate 
+		  //       voter
+		show results 
+	2)Political party login 
+		display all parties
+		login of each party
+		check result 
+		approve reject request	
+	3)Voter login
+		cast vote 
+		show candidates with symbols
+		sorted by id or name

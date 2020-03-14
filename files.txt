@@ -1,0 +1,23 @@
+files to be created:
+	
+	data stored in  files	
+ 
+	constituencies:
+		add update remove list constituencies 
+		
+	political parties 
+		poltical parties and candidates		
+	voters 	
+		registered in only one constituency
+		CNIC
+		password
+	candidates 	
+		register candidate 
+		party candidate	: will be stored in party file
+		register in party and constituency	
+		approval from party 	
+		symbol of party	
+		
+		independent candidate: stored in candidate file
+		SYMBOL(differenet from others)	
+		constituency
