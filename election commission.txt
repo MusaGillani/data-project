@@ -1,0 +1,36 @@
+i)Register consitituency through queues (by enqueuing , incase multiple registrations occur simultaneously)
+entry should be saved in file named constituency , queues through linked list 
+
+ii)list all constituencies by display function using simple .eof() and getline functions 
+use data from constituency file only 
+
+iii)update by adding/removing candidates and  
+delete constituency  using string search functions 
+
+iv)allot name and symbol , using queues for registration
+assign password and login 
+must contain candidates as well 
+
+v)party candidate registered in party file 
+  request for aprroval from party 
+  same symbol as party  
+  
+  independent candidate be saved in cadidates file 
+  
+  note:
+
+  all candidates can be saved in candidate file if easier for implementation
+  
+ vi)show available constituencies 
+    select only one constituency 
+    enter cnic 
+    generate password(using random number functoin srand())
+    
+    // create a separate function that returns passwords after generating 
+    
+  vii)show results 
+    3 display functions 
+    list all constituencies
+    list a specific (e.g NA-1)
+    display result when voting is done(show winner of voting)
+    
