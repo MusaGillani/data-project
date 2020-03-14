@@ -1,0 +1,6 @@
+i)display all candidates with symbols (parties also if party candidate)
+  two options:
+  sort by id 
+  sort by symbol name 
+  
+  use some string sorting algorithm
